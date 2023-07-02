@@ -1,6 +1,6 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Gary Daniel Rodriguez Palma, un gusto que estes pasando por mi perfil!
 ========================================================================================================================================
-Yo soy un desarrollador Web.
+Soy desarrollador Web.
 --------------------------
 
 *   🖥️  Puedes revisar aqui mi portafolio <a target="_blank" rel="noreferrer" href='https://daniel-dev17.netlify.app/'>Portfolio</a>
