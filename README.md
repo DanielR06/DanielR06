@@ -4,7 +4,7 @@ I am a Software Engineering Student (currently in my 3rd semester) focused on bu
 🛠️ Tech Stack
 Languages: Python, Java, JavaScript.
 
-Databases: PostgreSQL.
+Databases: PostgreSQL, MongoDB.
 
 Tools & Frameworks: React, Tkinter, Git/GitHub.
 
