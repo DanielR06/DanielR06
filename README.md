@@ -6,7 +6,7 @@ Languages: Python, Java, JavaScript.
 
 Databases: PostgreSQL.
 
-Tools & Frameworks: n8n (Automation), Tkinter, Git/GitHub.
+Tools & Frameworks: React, Tkinter, Git/GitHub.
 
 Core Concepts: SOLID Principles, MVC Architecture, UML Modeling, Networking (Cisco/VLANs).
 
@@ -23,5 +23,3 @@ I'm looking for opportunities where I can grow technically while improving my ve
 
 🚀 Featured Projects
 Java Music Player: An OOP-based application focusing on clean code and SOLID principles.
-
-AI Automation with n8n: Workflow automation for process optimization using AI and low-code tools.
